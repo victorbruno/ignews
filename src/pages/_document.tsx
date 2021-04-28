@@ -7,6 +7,7 @@ export default class MyDocument extends Document {
 				<Head>
 					{/* <link rel="preconnect" .../> */}
 					{/* <link href="https://fonts.google..." ... /> */}
+          <link rel="shortcut icon" href="/favicon.png" type="image/png"/>
 				</Head>
 				<body>
 					<Main />
