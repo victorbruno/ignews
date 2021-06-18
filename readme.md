@@ -85,7 +85,6 @@ This section should list any major frameworks that you built your project using.
 
 - [Bootstrap](https://getbootstrap.com)
 - [JQuery](https://jquery.com)
-- [Laravel](https://laravel.com)
 
 <!-- GETTING STARTED -->
 
